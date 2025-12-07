@@ -1,0 +1,13 @@
+data:
+  embeddings_csv: data/cropped/embeddings.csv
+  train_csv: data/cropped/train.csv
+  val_csv: data/cropped/val.csv
+model:
+  type: logreg
+  params:
+    max_iter: 300
+    class_weight: balanced
+threshold:
+  default: 0.75
+seed: 42
+val_size: 0.2

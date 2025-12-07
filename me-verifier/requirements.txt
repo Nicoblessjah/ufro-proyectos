@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+facenet-pytorch
+numpy<2
+pillow
+scikit-learn
+flask
+python-dotenv
+joblib
+gunicorn
+matplotlib
+pandas
+pyyaml
+waitress

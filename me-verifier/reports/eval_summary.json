@@ -1,0 +1,5987 @@
+{
+  "api": "http://127.0.0.1:5000/verify",
+  "timing_ms": 158745.68271636963,
+  "me": {
+    "ok": 196,
+    "total": 196,
+    "skipped": 0,
+    "items": [
+      {
+        "path": "data\\me\\WIN_20251101_18_34_08_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9994
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_10_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9994
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_11_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9987
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_11_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9988
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_12_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9993
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_13_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.996
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_14_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9986
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_14_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9965
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_15_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9992
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_15_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_16_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9988
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_16_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9994
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_17_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9975
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_17_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9979
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_18_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9968
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_18_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9987
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_19_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9934
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_19_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9788
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_20_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9959
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_20_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9903
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_21_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9934
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_21_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9969
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_22_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9985
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_22_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9942
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_23_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9978
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_24_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9837
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_24_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.8164
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_24_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.99
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_25_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9968
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_25_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.8678
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_26_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9985
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_26_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9979
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_27_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9975
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_33_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_33_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9991
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_34_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9991
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_36_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_37_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_37_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9989
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_38_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9994
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_38_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9992
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_39_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9973
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_40_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9993
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_40_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.998
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_41_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9985
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_41_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9984
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_42_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9975
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_42_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9982
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_43_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9977
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_43_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.997
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_44_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9968
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_44_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9981
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_46_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9976
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_46_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9989
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_46_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9976
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_47_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9977
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_47_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9823
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_49_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9899
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_50_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9991
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_50_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_51_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.998
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_51_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9991
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_52_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9951
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_52_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9966
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_52_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.998
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_53_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.996
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_53_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.991
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_54_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9973
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_54_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9953
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_55_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9964
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_55_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.994
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_56_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_56_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_56_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9983
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_57_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9924
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_57_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9891
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_58_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9989
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_58_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9043
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_59_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_59_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9977
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_00_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9976
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_00_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9982
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_01_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9791
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_01_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9726
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_01_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9927
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_02_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9913
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_02_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9879
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_03_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9975
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_03_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9949
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_04_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9854
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_04_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9948
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_05_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.995
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_05_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9959
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_05_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9967
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_06_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9985
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_06_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9967
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_07_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9949
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_07_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9977
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_08_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9994
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_10_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9994
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_11_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9987
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_11_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9988
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_12_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9993
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_13_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.996
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_14_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9986
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_14_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9965
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_15_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9992
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_15_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_16_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9988
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_16_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9994
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_17_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9975
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_17_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9979
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_18_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9968
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_18_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9987
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_19_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9934
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_19_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9788
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_20_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9959
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_20_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9903
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_21_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9934
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_21_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9969
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_22_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9985
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_22_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9942
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_23_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9978
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_24_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9837
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_24_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.8164
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_24_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.99
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_25_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9968
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_25_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.8678
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_26_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9985
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_26_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9979
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_27_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9975
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_33_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_33_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9991
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_34_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9991
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_36_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_37_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_37_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9989
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_38_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9994
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_38_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9992
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_39_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9973
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_40_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9993
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_40_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.998
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_41_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9985
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_41_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9984
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_42_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9975
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_42_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9982
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_43_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9977
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_43_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.997
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_44_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9968
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_44_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9981
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_46_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9976
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_46_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9989
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_46_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9976
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_47_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9977
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_47_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9823
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_49_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9899
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_50_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9991
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_50_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_51_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.998
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_51_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9991
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_52_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9951
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_52_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9966
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_52_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.998
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_53_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.996
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_53_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.991
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_54_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9973
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_54_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9953
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_55_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9964
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_55_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.994
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_56_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_56_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_56_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9983
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_57_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9924
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_57_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9891
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_58_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9989
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_58_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9043
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_59_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.999
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_34_59_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9977
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_00_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9976
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_00_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9982
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_01_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9791
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_01_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9726
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_01_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9927
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_02_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9913
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_02_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9879
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_03_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9975
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_03_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9949
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_04_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9854
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_04_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9948
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_05_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.995
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_05_Pro (3).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9959
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_05_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9967
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_06_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9985
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_06_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9967
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_07_Pro (2).jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9949
+      },
+      {
+        "path": "data\\me\\WIN_20251101_18_35_07_Pro.jpg",
+        "status": "ok",
+        "pred_is_me": true,
+        "score": 0.9977
+      }
+    ]
+  },
+  "not_me": {
+    "ok": 790,
+    "total": 800,
+    "skipped": 10,
+    "items": [
+      {
+        "path": "data\\not_me\\lfw_0000.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0001.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0002.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0003.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0181
+      },
+      {
+        "path": "data\\not_me\\lfw_0004.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0039
+      },
+      {
+        "path": "data\\not_me\\lfw_0005.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0006.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0007.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0008.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0009
+      },
+      {
+        "path": "data\\not_me\\lfw_0009.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0010.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0011.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0012.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0013.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0014.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0015.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0016.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0017.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0018.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0019.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0043
+      },
+      {
+        "path": "data\\not_me\\lfw_0020.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0021.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0022.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0023.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0024.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0025.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0026.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0027.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0028.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0029.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0030.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0031.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0005
+      },
+      {
+        "path": "data\\not_me\\lfw_0032.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0033.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0034.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0035.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0036.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0037.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0008
+      },
+      {
+        "path": "data\\not_me\\lfw_0038.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0429
+      },
+      {
+        "path": "data\\not_me\\lfw_0039.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0012
+      },
+      {
+        "path": "data\\not_me\\lfw_0040.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0041.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0042.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0043.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0044.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0045.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0046.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0047.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0048.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0222
+      },
+      {
+        "path": "data\\not_me\\lfw_0049.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0050.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0051.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0052.png",
+        "status": "skip_422",
+        "message": "{'error': 'no se detectó rostro'}"
+      },
+      {
+        "path": "data\\not_me\\lfw_0053.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0054.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0055.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0056.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0057.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0058.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0041
+      },
+      {
+        "path": "data\\not_me\\lfw_0059.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0060.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0061.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0037
+      },
+      {
+        "path": "data\\not_me\\lfw_0062.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0063.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0064.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0065.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0066.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0067.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0068.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0069.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0070.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0071.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0072.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0073.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0074.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0075.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0076.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0077.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0039
+      },
+      {
+        "path": "data\\not_me\\lfw_0078.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0079.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0080.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0081.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0137
+      },
+      {
+        "path": "data\\not_me\\lfw_0082.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0083.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0084.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0085.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0086.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0087.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0088.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0453
+      },
+      {
+        "path": "data\\not_me\\lfw_0089.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0090.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0091.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0092.png",
+        "status": "skip_422",
+        "message": "{'error': 'no se detectó rostro'}"
+      },
+      {
+        "path": "data\\not_me\\lfw_0093.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0094.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0095.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0096.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0097.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0098.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0099.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0100.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0101.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0102.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0103.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0009
+      },
+      {
+        "path": "data\\not_me\\lfw_0104.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0324
+      },
+      {
+        "path": "data\\not_me\\lfw_0105.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0044
+      },
+      {
+        "path": "data\\not_me\\lfw_0106.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0107.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0108.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0014
+      },
+      {
+        "path": "data\\not_me\\lfw_0109.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0110.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0111.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0112.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0113.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0114.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0115.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0116.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0117.png",
+        "status": "skip_422",
+        "message": "{'error': 'no se detectó rostro'}"
+      },
+      {
+        "path": "data\\not_me\\lfw_0118.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0119.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0120.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0121.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0122.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0123.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0013
+      },
+      {
+        "path": "data\\not_me\\lfw_0124.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0125.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0126.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0127.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0128.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0129.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0130.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0131.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0005
+      },
+      {
+        "path": "data\\not_me\\lfw_0132.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0133.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0134.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0135.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0136.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0017
+      },
+      {
+        "path": "data\\not_me\\lfw_0137.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0138.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0013
+      },
+      {
+        "path": "data\\not_me\\lfw_0139.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0140.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0141.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0142.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0143.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0144.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0145.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0146.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0147.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0148.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0149.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0150.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0151.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0152.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0153.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0154.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0155.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0156.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0157.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0065
+      },
+      {
+        "path": "data\\not_me\\lfw_0158.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0159.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0160.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0161.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0162.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0163.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0164.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0165.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0166.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0007
+      },
+      {
+        "path": "data\\not_me\\lfw_0167.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0168.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0169.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0170.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0171.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0172.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0005
+      },
+      {
+        "path": "data\\not_me\\lfw_0173.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0174.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0175.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0176.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0115
+      },
+      {
+        "path": "data\\not_me\\lfw_0177.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0178.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0179.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0180.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0181.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0182.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0183.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0184.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0185.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0186.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0187.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0188.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0189.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0190.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0191.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0192.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0016
+      },
+      {
+        "path": "data\\not_me\\lfw_0193.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0194.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0195.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0196.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0057
+      },
+      {
+        "path": "data\\not_me\\lfw_0197.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0198.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0199.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0200.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0201.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0202.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0203.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0204.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0205.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0206.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0207.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0263
+      },
+      {
+        "path": "data\\not_me\\lfw_0208.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0209.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0210.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0211.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0212.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0213.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0013
+      },
+      {
+        "path": "data\\not_me\\lfw_0214.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0215.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0216.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0217.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0218.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0219.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0220.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0012
+      },
+      {
+        "path": "data\\not_me\\lfw_0221.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0222.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0223.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0224.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0225.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0226.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0227.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0228.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0013
+      },
+      {
+        "path": "data\\not_me\\lfw_0229.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0005
+      },
+      {
+        "path": "data\\not_me\\lfw_0230.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0231.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0232.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0233.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0205
+      },
+      {
+        "path": "data\\not_me\\lfw_0234.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0235.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0097
+      },
+      {
+        "path": "data\\not_me\\lfw_0236.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0237.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0238.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0239.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0240.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0241.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0242.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0151
+      },
+      {
+        "path": "data\\not_me\\lfw_0243.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0244.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0245.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0246.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0247.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.001
+      },
+      {
+        "path": "data\\not_me\\lfw_0248.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0249.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0009
+      },
+      {
+        "path": "data\\not_me\\lfw_0250.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0251.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0071
+      },
+      {
+        "path": "data\\not_me\\lfw_0252.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0253.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0254.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0255.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0256.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0257.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0258.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0259.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0260.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0261.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0262.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0263.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0264.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0265.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0266.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0267.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0268.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0269.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0270.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0271.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0272.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0273.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0274.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0275.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0276.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0277.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0278.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0279.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0280.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0281.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0282.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0052
+      },
+      {
+        "path": "data\\not_me\\lfw_0283.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0284.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0007
+      },
+      {
+        "path": "data\\not_me\\lfw_0285.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0286.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0287.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0288.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0289.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0290.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0291.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0292.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0293.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0294.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0295.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0296.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0297.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0298.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0299.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0300.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0301.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0302.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0102
+      },
+      {
+        "path": "data\\not_me\\lfw_0303.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0012
+      },
+      {
+        "path": "data\\not_me\\lfw_0304.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0305.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0306.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0307.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0308.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0309.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0310.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0311.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0011
+      },
+      {
+        "path": "data\\not_me\\lfw_0312.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0313.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0314.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0039
+      },
+      {
+        "path": "data\\not_me\\lfw_0315.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0316.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0317.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0318.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0319.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0320.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0321.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0322.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0323.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0324.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0325.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0326.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0327.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0328.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0329.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0007
+      },
+      {
+        "path": "data\\not_me\\lfw_0330.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0331.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0332.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0333.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0334.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0335.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0033
+      },
+      {
+        "path": "data\\not_me\\lfw_0336.png",
+        "status": "skip_422",
+        "message": "{'error': 'no se detectó rostro'}"
+      },
+      {
+        "path": "data\\not_me\\lfw_0337.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0338.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0339.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0340.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0341.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0342.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0343.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0344.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0345.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0346.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0347.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0348.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0349.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0021
+      },
+      {
+        "path": "data\\not_me\\lfw_0350.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0124
+      },
+      {
+        "path": "data\\not_me\\lfw_0351.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0352.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0353.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0007
+      },
+      {
+        "path": "data\\not_me\\lfw_0354.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0355.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0356.png",
+        "status": "skip_422",
+        "message": "{'error': 'no se detectó rostro'}"
+      },
+      {
+        "path": "data\\not_me\\lfw_0357.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0358.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0359.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0360.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0012
+      },
+      {
+        "path": "data\\not_me\\lfw_0361.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0362.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0363.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0364.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0365.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0064
+      },
+      {
+        "path": "data\\not_me\\lfw_0366.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0054
+      },
+      {
+        "path": "data\\not_me\\lfw_0367.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0368.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0369.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0370.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0371.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0372.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0007
+      },
+      {
+        "path": "data\\not_me\\lfw_0373.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0374.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0375.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0376.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0377.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0005
+      },
+      {
+        "path": "data\\not_me\\lfw_0378.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.035
+      },
+      {
+        "path": "data\\not_me\\lfw_0379.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0380.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0381.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0382.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0383.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0384.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0385.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0386.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0387.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0388.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0389.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0390.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0391.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0392.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0393.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0394.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0395.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0396.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0397.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0398.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0399.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.002
+      },
+      {
+        "path": "data\\not_me\\lfw_0000.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0001.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0002.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0003.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0181
+      },
+      {
+        "path": "data\\not_me\\lfw_0004.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0039
+      },
+      {
+        "path": "data\\not_me\\lfw_0005.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0006.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0007.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0008.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0009
+      },
+      {
+        "path": "data\\not_me\\lfw_0009.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0010.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0011.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0012.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0013.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0014.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0015.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0016.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0017.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0018.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0019.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0043
+      },
+      {
+        "path": "data\\not_me\\lfw_0020.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0021.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0022.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0023.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0024.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0025.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0026.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0027.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0028.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0029.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0030.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0031.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0005
+      },
+      {
+        "path": "data\\not_me\\lfw_0032.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0033.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0034.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0035.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0036.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0037.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0008
+      },
+      {
+        "path": "data\\not_me\\lfw_0038.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0429
+      },
+      {
+        "path": "data\\not_me\\lfw_0039.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0012
+      },
+      {
+        "path": "data\\not_me\\lfw_0040.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0041.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0042.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0043.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0044.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0045.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0046.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0047.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0048.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0222
+      },
+      {
+        "path": "data\\not_me\\lfw_0049.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0050.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0051.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0052.png",
+        "status": "skip_422",
+        "message": "{'error': 'no se detectó rostro'}"
+      },
+      {
+        "path": "data\\not_me\\lfw_0053.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0054.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0055.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0056.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0057.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0058.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0041
+      },
+      {
+        "path": "data\\not_me\\lfw_0059.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0060.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0061.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0037
+      },
+      {
+        "path": "data\\not_me\\lfw_0062.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0063.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0064.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0065.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0066.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0067.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0068.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0069.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0070.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0071.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0072.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0073.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0074.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0075.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0076.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0077.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0039
+      },
+      {
+        "path": "data\\not_me\\lfw_0078.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0079.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0080.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0081.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0137
+      },
+      {
+        "path": "data\\not_me\\lfw_0082.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0083.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0084.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0085.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0086.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0087.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0088.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0453
+      },
+      {
+        "path": "data\\not_me\\lfw_0089.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0090.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0091.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0092.png",
+        "status": "skip_422",
+        "message": "{'error': 'no se detectó rostro'}"
+      },
+      {
+        "path": "data\\not_me\\lfw_0093.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0094.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0095.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0096.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0097.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0098.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0099.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0100.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0101.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0102.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0103.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0009
+      },
+      {
+        "path": "data\\not_me\\lfw_0104.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0324
+      },
+      {
+        "path": "data\\not_me\\lfw_0105.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0044
+      },
+      {
+        "path": "data\\not_me\\lfw_0106.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0107.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0108.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0014
+      },
+      {
+        "path": "data\\not_me\\lfw_0109.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0110.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0111.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0112.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0113.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0114.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0115.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0116.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0117.png",
+        "status": "skip_422",
+        "message": "{'error': 'no se detectó rostro'}"
+      },
+      {
+        "path": "data\\not_me\\lfw_0118.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0119.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0120.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0121.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0122.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0123.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0013
+      },
+      {
+        "path": "data\\not_me\\lfw_0124.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0125.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0126.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0127.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0128.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0129.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0130.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0131.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0005
+      },
+      {
+        "path": "data\\not_me\\lfw_0132.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0133.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0134.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0135.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0136.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0017
+      },
+      {
+        "path": "data\\not_me\\lfw_0137.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0138.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0013
+      },
+      {
+        "path": "data\\not_me\\lfw_0139.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0140.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0141.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0142.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0143.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0144.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0145.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0146.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0147.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0148.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0149.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0150.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0151.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0152.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0153.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0154.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0155.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0156.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0157.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0065
+      },
+      {
+        "path": "data\\not_me\\lfw_0158.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0159.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0160.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0161.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0162.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0163.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0164.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0165.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0166.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0007
+      },
+      {
+        "path": "data\\not_me\\lfw_0167.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0168.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0169.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0170.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0171.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0172.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0005
+      },
+      {
+        "path": "data\\not_me\\lfw_0173.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0174.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0175.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0176.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0115
+      },
+      {
+        "path": "data\\not_me\\lfw_0177.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0178.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0179.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0180.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0181.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0182.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0183.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0184.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0185.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0186.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0187.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0188.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0189.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0190.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0191.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0192.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0016
+      },
+      {
+        "path": "data\\not_me\\lfw_0193.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0194.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0195.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0196.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0057
+      },
+      {
+        "path": "data\\not_me\\lfw_0197.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0198.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0199.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0200.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0201.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0202.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0203.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0204.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0205.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0206.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0207.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0263
+      },
+      {
+        "path": "data\\not_me\\lfw_0208.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0209.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0210.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0211.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0212.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0213.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0013
+      },
+      {
+        "path": "data\\not_me\\lfw_0214.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0215.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0216.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0217.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0218.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0219.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0220.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0012
+      },
+      {
+        "path": "data\\not_me\\lfw_0221.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0222.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0223.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0224.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0225.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0226.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0227.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0228.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0013
+      },
+      {
+        "path": "data\\not_me\\lfw_0229.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0005
+      },
+      {
+        "path": "data\\not_me\\lfw_0230.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0231.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0232.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0233.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0205
+      },
+      {
+        "path": "data\\not_me\\lfw_0234.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0235.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0097
+      },
+      {
+        "path": "data\\not_me\\lfw_0236.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0237.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0238.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0239.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0240.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0241.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0242.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0151
+      },
+      {
+        "path": "data\\not_me\\lfw_0243.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0244.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0245.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0246.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0247.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.001
+      },
+      {
+        "path": "data\\not_me\\lfw_0248.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0249.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0009
+      },
+      {
+        "path": "data\\not_me\\lfw_0250.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0251.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0071
+      },
+      {
+        "path": "data\\not_me\\lfw_0252.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0253.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0254.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0255.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0256.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0257.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0258.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0259.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0260.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0261.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0262.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0263.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0264.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0265.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0266.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0267.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0268.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0269.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0270.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0271.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0272.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0273.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0274.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0275.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0276.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0277.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0278.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0279.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0280.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0281.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0282.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0052
+      },
+      {
+        "path": "data\\not_me\\lfw_0283.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0284.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0007
+      },
+      {
+        "path": "data\\not_me\\lfw_0285.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0286.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0287.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0288.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0289.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0290.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0291.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0292.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0293.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0294.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0295.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0296.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0297.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0298.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0299.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0300.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0301.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0302.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0102
+      },
+      {
+        "path": "data\\not_me\\lfw_0303.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0012
+      },
+      {
+        "path": "data\\not_me\\lfw_0304.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0004
+      },
+      {
+        "path": "data\\not_me\\lfw_0305.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0306.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0307.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0308.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0309.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0310.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0311.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0011
+      },
+      {
+        "path": "data\\not_me\\lfw_0312.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0313.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0314.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0039
+      },
+      {
+        "path": "data\\not_me\\lfw_0315.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0316.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0317.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0318.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0319.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0320.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0321.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0322.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0323.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0324.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0325.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0326.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0327.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0328.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0329.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0007
+      },
+      {
+        "path": "data\\not_me\\lfw_0330.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0331.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0332.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0333.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0334.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0335.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0033
+      },
+      {
+        "path": "data\\not_me\\lfw_0336.png",
+        "status": "skip_422",
+        "message": "{'error': 'no se detectó rostro'}"
+      },
+      {
+        "path": "data\\not_me\\lfw_0337.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0338.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0339.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0340.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0341.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0342.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0343.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0344.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0345.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0346.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0347.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0348.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0349.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0021
+      },
+      {
+        "path": "data\\not_me\\lfw_0350.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0124
+      },
+      {
+        "path": "data\\not_me\\lfw_0351.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0352.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0353.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0007
+      },
+      {
+        "path": "data\\not_me\\lfw_0354.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0355.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0356.png",
+        "status": "skip_422",
+        "message": "{'error': 'no se detectó rostro'}"
+      },
+      {
+        "path": "data\\not_me\\lfw_0357.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0358.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0359.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0360.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0012
+      },
+      {
+        "path": "data\\not_me\\lfw_0361.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0362.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0363.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0364.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0365.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0064
+      },
+      {
+        "path": "data\\not_me\\lfw_0366.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0054
+      },
+      {
+        "path": "data\\not_me\\lfw_0367.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0368.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0369.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0370.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0371.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0372.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0007
+      },
+      {
+        "path": "data\\not_me\\lfw_0373.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0374.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0375.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0376.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0377.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0005
+      },
+      {
+        "path": "data\\not_me\\lfw_0378.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.035
+      },
+      {
+        "path": "data\\not_me\\lfw_0379.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0380.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0381.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0003
+      },
+      {
+        "path": "data\\not_me\\lfw_0382.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0383.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0384.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0385.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0386.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0387.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0002
+      },
+      {
+        "path": "data\\not_me\\lfw_0388.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0389.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0390.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0001
+      },
+      {
+        "path": "data\\not_me\\lfw_0391.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0392.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0393.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0394.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0006
+      },
+      {
+        "path": "data\\not_me\\lfw_0395.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0396.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0397.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0398.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.0
+      },
+      {
+        "path": "data\\not_me\\lfw_0399.png",
+        "status": "ok",
+        "pred_is_me": false,
+        "score": 0.002
+      }
+    ]
+  },
+  "processed": 986,
+  "correct": 986,
+  "accuracy": 1.0
+}

@@ -1,0 +1,28 @@
+﻿@'
+# Entorno / caché
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Datos crudos o intermedios
+data/_skdata/
+data/cropped/
+data/me/
+data/not_me/
+
+# Permite eval si quieres incluir ejemplos pequeños
+# (quita el comentario si NO quieres subir eval)
+# data/eval/
+
+# Archivos locales
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Reportes binarios (dejamos el md y json)
+# (si generas imágenes en reports/, ignóralas)
+# reports/*.png
+# reports/*.pdf
+'@ | Set-Content -Encoding utf8 .gitignore
