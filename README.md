@@ -33,7 +33,7 @@ ufro-proyectos/
 │
 └── README.md
 
-⚙️ Requerimientos
+Requerimientos
 Software necesario
 
 Python 3.10+
@@ -46,8 +46,8 @@ Git
 
 curl (para pruebas)
 
-🚀 Instalación y Ejecución de los Servicios
-1️⃣ PP1 – Servicio RAG (Normativa UFRO)
+Instalación y Ejecución de los Servicios
+PP1 – Servicio RAG (Normativa UFRO)
 cd ufro-assistant
 pip install -r requirements.txt
 uvicorn app:app --reload --port 8200
@@ -57,7 +57,7 @@ Endpoint principal:
 
 POST http://127.0.0.1:8200/ask
 
-2️⃣ PP2 – Servicio Biométrico (Verificador de identidad)
+PP2 – Servicio Biométrico (Verificador de identidad)
 cd me-verifier
 pip install -r requirements.txt
 uvicorn app:app --port 5000
@@ -67,7 +67,7 @@ Endpoint principal:
 
 POST http://127.0.0.1:5000/verify
 
-3️⃣ PP3 – Orquestador
+PP3 – Orquestador
 
 Crear el archivo .env basado en .env.example:
 
@@ -124,3 +124,4 @@ Ejemplo de respuesta:
   "normativa_answer": "No se encuentra en la normativa...",
   "timing_ms": "270.8"
 }
+
