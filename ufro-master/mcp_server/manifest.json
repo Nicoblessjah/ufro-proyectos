@@ -1,0 +1,51 @@
+{
+  "name": "ufro-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server con tools identify_person y ask_normativa para UFRO PP3",
+  "tools": [
+    {
+      "name": "identify_person",
+      "description": "Identifica a la persona en una imagen usando el orquestador PP3.",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "image_url": {
+            "type": "string",
+            "description": "URL pública de la imagen a analizar",
+            "nullable": true
+          },
+          "image_b64": {
+            "type": "string",
+            "description": "Imagen codificada en base64",
+            "nullable": true
+          },
+          "timeout_s": {
+            "type": "number",
+            "description": "Timeout en segundos para la llamada al orquestador",
+            "default": 5.0
+          },
+          "question": {
+            "type": "string",
+            "description": "Pregunta opcional de normativa UFRO para responder en el mismo flujo",
+            "nullable": true
+          }
+        },
+        "required": []
+      }
+    },
+    {
+      "name": "ask_normativa",
+      "description": "Pregunta sobre normativa UFRO usando el RAG del PP1.",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "question": {
+            "type": "string",
+            "description": "Pregunta en lenguaje natural sobre normativa UFRO."
+          }
+        },
+        "required": ["question"]
+      }
+    }
+  ]
+}

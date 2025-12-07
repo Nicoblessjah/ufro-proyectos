@@ -1,0 +1,179 @@
+{
+  "name": "PP3 – Orquestador UFRO (n8n)",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "pp3-webhook",
+        "responseMode": "lastNode",
+        "options": {
+          "binaryPropertyName": "image"
+        }
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        48,
+        0
+      ],
+      "id": "ef897064-d4dc-4c42-b572-e0fe2628644a",
+      "name": "Webhook",
+      "webhookId": "271c6504-7a62-47c2-bc3e-115e5fdf2b60"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "ecf302b1-db5d-4ce9-ba60-0c2009b99c6f",
+              "name": "decision",
+              "value": "={{ $node[\"PP2\"].json.is_me ? \"identified\" : \"not_identified\" }}",
+              "type": "string"
+            },
+            {
+              "id": "417eaf48-d31e-4254-a788-933605e21146",
+              "name": "identity",
+              "value": "={{ $node[\"PP2\"].json }}",
+              "type": "string"
+            },
+            {
+              "id": "5354bab2-6c16-4539-85d5-973630249705",
+              "name": "normativa_answer",
+              "value": "={{ $json.answer }}",
+              "type": "string"
+            },
+            {
+              "id": "a1eb5ba4-9878-4a17-94c4-800b9aabdf18",
+              "name": "timing_ms",
+              "value": "={{ $node[\"PP2\"].json.timing_ms }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        496,
+        0
+      ],
+      "id": "208a94a8-8414-4a45-a6f9-dc1d90dadf28",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:5000/verify",
+        "sendBody": true,
+        "contentType": "multipart-form-data",
+        "bodyParameters": {
+          "parameters": [
+            {
+              "parameterType": "formBinaryData",
+              "name": "image",
+              "inputDataFieldName": "image0"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        192,
+        0
+      ],
+      "id": "60cc2545-1292-4730-bc5e-80f8a64c4e40",
+      "name": "PP2"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:8200/ask",
+        "sendBody": true,
+        "contentType": "multipart-form-data",
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "question",
+              "value": "={{$items(\"Webhook\")[0].json.body.question}}\n"
+            },
+            {
+              "name": "provider",
+              "value": "openrouter"
+            },
+            {
+              "name": "rag",
+              "value": "true"
+            },
+            {
+              "name": "k",
+              "value": "4"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        336,
+        0
+      ],
+      "id": "ce237fb9-41b6-4896-a957-fa6dd83459cc",
+      "name": "PP1"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "PP2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        []
+      ]
+    },
+    "PP2": {
+      "main": [
+        [
+          {
+            "node": "PP1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "PP1": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "87632312-95b7-4de1-835a-91e6d90ec74f",
+  "meta": {
+    "instanceId": "2a857e9fd71d716459af04c01354215c5f7befbe4c1402c09e6028441d913353"
+  },
+  "id": "48u0EJ8YATZaTiqY",
+  "tags": []
+}
